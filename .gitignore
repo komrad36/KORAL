@@ -1,0 +1,14 @@
+*
+!.gitignore
+!CLATCH.cu
+!CLATCH.h
+!CUDALERP.cu
+!CUDALERP.h
+!FeatureAngle.h
+!Keypoint.h
+!KFAST.h
+!KORAL.h
+!main.cpp
+!Makefile
+!README.md
+!test.jpg
