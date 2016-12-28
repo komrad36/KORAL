@@ -51,10 +51,10 @@ the author's GitHub (https://github.com/komrad36).
 
 These individual components are:
 
--KFAST        (https://github.com/komrad36/KFAST)
--CUDALERP     (https://github.com/komrad36/CUDALERP)
--FeatureAngle (https://github.com/komrad36/FeatureAngle)
--CLATCH       (https://github.com/komrad36/CLATCH)
+- KFAST        (https://github.com/komrad36/KFAST)
+- CUDALERP     (https://github.com/komrad36/CUDALERP)
+- FeatureAngle (https://github.com/komrad36/FeatureAngle)
+- CLATCH       (https://github.com/komrad36/CLATCH)
 
 In addition, the natural next step of matching descriptors
 is available in the author's currently separate
