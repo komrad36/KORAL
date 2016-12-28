@@ -111,6 +111,7 @@ EXEMPLARY, OR CONSEQUENTIAL DAMAGES(INCLUDING, BUT NOT LIMITED TO,
 	SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
+- - - -
 
 
 KORAL is licensed under the MIT License : https://opensource.org/licenses/mit-license.php
