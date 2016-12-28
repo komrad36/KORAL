@@ -5,7 +5,7 @@ ARCH=sm_30
 INC=-I/usr/local/cuda/include/
 NVCCFLAGS=-Wall -Wextra -Werror -Wshadow -Ofast -fomit-frame-pointer -mavx2 -mfma -funroll-all-loops -fpeel-loops -ftracer -ftree-vectorize
 CPPFLAGS=-Wall -Wextra -Werror -Wshadow -pedantic -Ofast -std=gnu++14 -fomit-frame-pointer -march=native -flto -funroll-all-loops -fpeel-loops -ftracer -ftree-vectorize -mavx2 -mfma
-LIBS=-L/usr/local/cuda/lib64 -lcudart -lpthread
+LIBS=-L/usr/local/cuda/lib64 -lcudart -lpthread -lopencv_core -lopencv_features2d -lopencv_highgui -lopencv_imgcodecs
 CPPSOURCES=$(wildcard *.cpp)
 CUSOURCES=$(wildcard *.cu)
 

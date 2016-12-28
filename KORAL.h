@@ -71,7 +71,10 @@
 // (https://github.com/csp256), to whom I am extremely grateful.
 // 
 // The file 'main.cpp' is a simple test driver
-// illustrating example usage.
+// illustrating example usage.It requires OpenCV
+// for image read and keypoint display.KORAL itself,
+// however, does not require OpenCV or any other
+// external dependencies.
 //
 // Note that KORAL is a work in progress.
 // Suggestions and improvements are welcomed.
