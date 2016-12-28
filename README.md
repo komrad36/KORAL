@@ -21,7 +21,7 @@ then do:
     KORAL koral(scale_factor, scale_levels);
     koral.go(image, width, height, KFAST_threshold);
 
-where scale_factor is the factor by which each scale leve
+where scale_factor is the factor by which each scale level
 is reduced from the previous, scale_levels is the total
 number of such scale levels used, image is a pointer to
 uint8_t (grayscale) image data, and KFAST_threshold
